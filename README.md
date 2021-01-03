@@ -1,4 +1,4 @@
-# Tour list
+# Dynamic Menu
 5th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseState to render a button component where you can select a menu and its subitems.
 
 ### 🛠 Tools:
